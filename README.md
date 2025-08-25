@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SathishKumarPoola
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently pursuing Full Stack Development Course @NXT Wave CCBP 4.0
-- 💞️ I’m looking to collaborate on IT Company
-- 📫 How to reach me poolasathishkumar830@gmail.com
+- 👋 Hi, I’m **Sathish Kumar Poola**  
+- 👀 Passionate about **Full Stack Development**  
+- 🌱 Currently working as a **Software Engineer II**  
+- 💞️ Open to collaborating on exciting **IT projects & innovations**  
+- 📫 Reach me at **poolasathishkumar830@gmail.com**  
+
 
 <!---
 SathishKumarPoola/SathishKumarPoola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
